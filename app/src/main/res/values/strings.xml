@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StackUp</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="facebook_app_id">113168086008755</string>
+    <string name="fb_login_protocol_scheme">fb113168086008755</string>
+
+</resources>
