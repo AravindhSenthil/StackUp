@@ -11,6 +11,7 @@ public class ClassA implements Parcelable {
 
     String java;
     String android;
+    String OS;
     int k = 0;
 
     protected ClassA(Parcel in) {
