@@ -12,6 +12,6 @@ public class ClassB extends ClassC {
 
     @Override
     void minus() {
-
+        String s = "hero";
     }
 }
